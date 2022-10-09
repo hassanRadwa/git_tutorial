@@ -1,5 +1,5 @@
-
-x=2
-y=3
-z=x+y
-print("the sum of "+repr(x)+" and "+repr(y)+" is "+repr(z))
+print("hello ahmed")
+x=5
+y=8
+print(f'the sum of {x} and {y} is {x+y}.')
+print(f'the subtraction of {y} - {x} is {y-x}.')
